@@ -1,0 +1,23 @@
+Tipo de texto de:
+
+Home, quienes somos, servicios, productos, programas, cursos y talleres, e informes: todo con mayuscula, Myriad Pro, Light Semi Extended, 15 pt, color #a7a7a7
+
+
+color de la barra superior ploma: # 495052
+
+
+"NUESTROS SERVICIOS".- Myriad Pro, regular, 30 pt, color #ec774b
+"SERVICIOS PARA FAMILIAS-"INTEGRAMOS MENTE, CUERPO Y ESPIRITU".- Myriad Pro, regular, 20 pt, color #acacac
+"SERVICIOS PSICOLÓGICOS".- Myriad Pro, regular, 18pt, color # 9c9b9b
+"TERAPIAS PSICOLÓGICAS".- Myriad Pro, 14pt, color# edbf47
+"Terapia Psicológica Familiar",etc.....- Myriad Pro, 16pt, color# acacac
+
+
+
+NUESTROS EVENTOS.-Myriad Pro, 30pt, color#9c9b9b
+NO TE PIERDAS NINGUNO DE NUESTROS EVENTOS.- Myriad Pro, 20pt, color # acacac
+
+	ORATORIA PARA NIÑOS.- Myriad Pro, Semibold, 16pt, color#514f4f
+	Día: .- Myriad Pro, Semibold, 14pt, color #514f4f
+	1er Lunes de cada mes.- Myriad Pro, regular, 14pt, color #514f4f
+
