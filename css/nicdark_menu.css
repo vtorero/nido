@@ -115,7 +115,7 @@
 
 /*li tag*/
 .nicdark_menu > li { float: left; }
-.nicdark_menu li { white-space: nowrap;  -webkit-transition: background .2s; transition: background .2s; position: relative; }
+.nicdark_menu li { white-space: nowrap;  -webkit-transition: background .2s; transition: background .2s; position: relative; font-size: 14px;}
 
 /*ul tag*/
 .nicdark_menu ul { position: absolute; display: none; top: 100%; margin-left: -25px; z-index: 99; min-width: 12em; padding-top:40px; margin-top:0px; }

@@ -78,7 +78,7 @@ body.nicdark_boxed_img{ background-image: url(../img/img4.jpg) !important; backg
 .grid_12 {width:1180px;}
 /*END NICDARKGRID*/
 
-
+ul.botones li{float: left;list-style: none;}
 
 /* 6 - START NIKDARKWIDTHPERCENTAGE*/
 .nicdark_width_percentage1{ width: 1% !important; }
