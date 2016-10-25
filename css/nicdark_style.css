@@ -155,6 +155,7 @@ select.big { font-size: 17px; padding: 15px 10%; }
 /*********************************************CUSTOM FOR BABY KIDS*************************************************************/
 
 /* 9 - START CLASS FOR PARALLAX SECTION*/
+.nicdark_parallax_img4 { background:url(../img/cabecera4.jpg) 50% 0 fixed; background-size:cover; }
 .nicdark_parallax_img2 { background:url(../img/slide/img2.jpg) 50% 0 fixed; background-size:cover; }
 .nicdark_parallax_img3 { background:url(../img/slide/img3.jpg) 50% 0 fixed; background-size:cover; }
 .nicdark_parallax_img1 { background:url(../img/slide/img1.jpg) 50% 0 fixed; background-size:cover; }
@@ -188,4 +189,16 @@ select.big { font-size: 17px; padding: 15px 10%; }
 
 .nicdark_copyrightlogo { background-image:url(../img/footer/copyright.jpg); background-size:95px; background-repeat:no-repeat; background-position:left; }
 .nicdark_facebook { background-color:#5977b8; box-shadow:0px 4px 0px 0px #4c67a1;  }
+
+
+div.grid.grid_3.nicdark_relative div.nicdark_activity div.video1{width: 294px;height: 416px;background-color:red;background: url(../img/fndo-video1.jpg) }
+div.grid.grid_3.nicdark_relative div.nicdark_activity div.video2{width: 294px;height: 416px;background-color:red;background: url(../img/fndo-video2.jpg) }
+div.grid.grid_3.nicdark_relative div.nicdark_activity div.video3{width: 294px;height: 416px;background-color:red;background: url(../img/fndo-video3.jpg) }
+div.grid.grid_3.nicdark_relative div.nicdark_activity div.video4{width: 294px;height: 416px;background-color:red;background: url(../img/fndo-video4.jpg) }
+div.grid.grid_3.nicdark_relative div.nicdark_activity div.promo h5{display: block;padding-left: 86px;padding-top: 38px;}
+div.grid.grid_3.nicdark_relative div.nicdark_activity div.promo a{   display: block;padding-left: 26px;padding-top: 49px;}
+div.grid.grid_3.nicdark_relative div.nicdark_activity div.promo iframe{display: block;padding-left: 13px;padding-top: 34px;}
+div.grid.grid_3.nicdark_relative div.nicdark_activity div.promo .texto{display: block;padding-left: 18px;padding-top: 19px;text-align: justify;width: 256px;}
+
+
 /*END CUSTOM CLASS TO AVOID INLINE CSS*/
